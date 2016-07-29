@@ -278,4 +278,19 @@ img {
   text-align: center;
 }
 
+#page a {
+    text-decoration: none;
+    border: none;
+    padding: none;
+    border-radius: none;
+    color: white;
+}
+
+#page img {
+    border-radius: 50px;
+   
+  height: 100px;
+  border: none;
+    
+}
 

@@ -286,9 +286,21 @@ img {
     color: white;
 }
 
-#page img {
+#page1 img {
   height: 100px;
   border: none;
     
 }
+
+#page1-toc {
+    display: block;
+    position: fixed;
+    border: 1px solid black;
+    margin-left: 10px;
+    padding: 10px;
+    
+}
+
+
+
 
